@@ -1,0 +1,36 @@
+.bgcolor {
+    background-color: rgba(4, 90, 189, 0.904);
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.box {
+    padding: 2%;
+    border: 5px solid rgba(4, 90, 189, 0.904);
+    border-radius: 10px;
+}
+
+.p5 {
+    padding: 5%;
+}
+
+.pt{
+    padding-top: 50px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.mt2 {
+    margin-top: 2%;
+}
+
+.mb2 {
+    margin-bottom: 2%;
+}
+
+w50 {
+    width: 50%;
+}
